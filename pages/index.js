@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello! I'm Sealtiel Nielsen M. Salazar. My hobbies are playing games, watching movies, and listening to music. I don't have a favorite type of music because I enjoy listening to all kinds of music. My favorite food is fried chicken.
 
-In five years, I see myself struggling but thriving as a successful IT professional. I also hope that I can apply the knowledge I gain from studying System Integration in my future career.
+In five years, I see myself as a successful IT professional, continuously learning and growing through challenges. I also hope that I can apply the knowledge I gain from studying System Integration in my future career.
 </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
