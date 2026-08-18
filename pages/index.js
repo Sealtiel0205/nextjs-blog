@@ -9,7 +9,10 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello! I'm Sealtiel Nielsen M. Salazar and my hobbies are playing games, watching movies and listening to music, I dont have any favorite music because I like them all. My favorite food is fried chicken. I see myself in 5 years is that I am struggling but thriving, and I can use this knowledge about this topic System Integration in the future.</p>
+        <p>Hello! I'm Sealtiel Nielsen M. Salazar. My hobbies are playing games, watching movies, and listening to music. I don't have a favorite type of music because I enjoy listening to all kinds of music. My favorite food is fried chicken.
+
+In five years, I see myself struggling but thriving as a successful IT professional. I also hope that I can apply the knowledge I gain from studying System Integration in my future career.
+</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
